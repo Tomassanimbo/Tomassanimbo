@@ -1,8 +1,8 @@
 
  <div align="center"> 
   
-  ## Olá, me chamo Lorena Narciso
-Estudante de Engenharia de Software<br>
+  ## Olá, me chamo Tomás claudeth Sanimbo
+Estudante de Programação<br>
 <div align="center">
   <a href="https://github.com/loreecrvg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loreecrvg&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@ Estudante de Engenharia de Software<br>
   ## __SKILLS__
   
    
-   Tecnologias que estou estudando e usando para me tornar uma desenvolvedora
+   Tecnologias que estou estudando e usando para me tornar uma desenvolvedor
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Lore-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
