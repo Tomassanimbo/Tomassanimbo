@@ -1,7 +1,7 @@
 
  <div align="center"> 
   
-  ## Olá, me chamo Tomás claudeth Sanimbo
+  ## Olá, me chamo Tomás Script Dev
 Estudante de Programação<br>
 <div align="center">
 <!--   <a href="https://github.com/loreecrvg"> -->
